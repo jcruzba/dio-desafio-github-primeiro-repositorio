@@ -5,4 +5,4 @@ Repositório criado para o desafio de projeto.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Link para download do Git
-[Com o Git voce pode elaborar seus projetos](https://git-scm.com)
+[Com o Git você pode elaborar seus projetos](https://git-scm.com)
